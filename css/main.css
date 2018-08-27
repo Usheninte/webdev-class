@@ -1,0 +1,33 @@
+
+body {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  width: 100%;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+p {
+  color: blue;
+}
+
+h6 {
+  color: #5d5d5d;
+}
+
+.image {
+  width: 150px;
+  height: 300px;
+}
